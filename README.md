@@ -1,4 +1,4 @@
-# Enhanced Handwritten Character Recognition Using Convolutional Neural Networks | github Jan 2023
+# Enhanced Handwritten Character Recognition Using Convolutional Neural Networks
 * The project focused on tackling a challenging character recognition problem using higher-resolution grayscale images of
 handwritten letters.
 * We used two datasets, EMNIST (Extended MNIST) Letters and Binary AlphaDigits, to train and evaluate various neural
